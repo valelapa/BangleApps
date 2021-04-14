@@ -2306,19 +2306,19 @@
       {"name":"mandel.app.js","url":"mandel.min.js"},
       {"name":"mandel.img","url":"mandel-icon.js","evaluate":true}
     ]
-  }
-]
-},
-{ "id": "runningBLE",
+  },
+  { "id": "runningBLE",
   "name": "RunningBLE",
-  "shortName":"Running BLE",
+  "shortName":"RNBLE",
   "icon": "runningBLE.png",
-  "version":"0.01",
-  "description": "This app allows streaming running data with BLE ",
-  "tags": "",
+  "version":"0.1",
+  "description": "This app allows to stream running data over BLE connection with a mobile app",
+  "tags": "outdoors",
   "storage": [
     {"name":"runningBLE.app.js","url":"app.js"},
     {"name":"runningBLE.img","url":"app-icon.js","evaluate":true}
   ]
 }
+	
 ]
+
