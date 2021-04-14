@@ -2310,15 +2310,15 @@
 ]
 },
 { "id": "runningBLE",
-  "name": "My running App",
-  "shortName":"Running App",
+  "name": "runningBLE",
+  "shortName":"Running BLE App",
   "icon": "logo_integris.png",
   "version":"0.01",
   "description": "This is a description of my awesome running ble app",
   "tags": "",
   "storage": [
     {"name":"runningBLE.app.js","url":"app.js"},
-    {"name":"runningBLE.img","url":"app-icon.js","evaluate":true}
+    {"name":"logo_integris.png","url":"app-icon.js","evaluate":true}
   ]
 }
 ]
