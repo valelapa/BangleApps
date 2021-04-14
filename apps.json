@@ -2307,7 +2307,7 @@
       {"name":"mandel.img","url":"mandel-icon.js","evaluate":true}
     ]
   },
-  { "id": "integr",
+  { "id": "runningBLE",
   "name": "RunningBLE",
   "shortName":"RNBLE",
   "icon": "runningBLE.png",
@@ -2318,7 +2318,6 @@
     {"name":"runningBLE.app.js","url":"app.js"},
     {"name":"runningBLE.img","url":"app-icon.js","evaluate":true}
   ]
-}
-	
+  }	
 ]
 
