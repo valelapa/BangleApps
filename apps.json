@@ -2310,7 +2310,7 @@
   { "id": "runningBLE",
   "name": "RunningBLE",
   "shortName":"RNBLE",
-  "icon": "runningBLE.png",
+  "icon": "appIcon.png",
   "version":"0.1",
   "description": "This app allows to stream running data over BLE connection with a mobile app",
   "tags": "outdoors",
